@@ -1,17 +1,29 @@
-<h1 align='center'>Hi there 👋🏾</h1>
+## Hi, Jeremiah here.
+Software Engineer.
 
+Specialize in Api development, and distributed systems. Systems progarmming protégé
 
-<p align='center'>
-<a href="https://twitter.com/lovinjerry004" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jeremiah-ajayi-83946415a" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-  
-  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=lord-jerry&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lord-jerry&hide=css,java,html&theme=tokyonight">
-</p>
-</p>
- 
+## Familiar with:
+
+- JavaScript / TypeScript
+- Rust
+- Golang
+
+## In domains of:
+- Frontend Web
+  - React / Next.js
+- Backend Web
+  - Node: Fastify / Nest.js / Express
+  - Go: Fiber
+  - Rust: Actix Web
+- Mobile
+  - Cross Platform: React Native
+- Database
+  - SQL: Mysql / Postgres
+  - NoSQL:  MongoDB 
+  - ORM: Prisma / Sequelize
+
+### Github Stats
+[![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=lord-jerry&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-jerry&layout=compact&theme=default&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
