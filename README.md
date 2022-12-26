@@ -1,7 +1,7 @@
 ## Hi, Jeremiah here.
 Software Engineer.
 
-Specialize in Api development, and distributed systems. Systems progarmming protégé
+Specializes in Api development, and distributed systems. Systems progarmming protégé
 
 ## Familiar with:
 
