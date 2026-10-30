@@ -1,29 +1,19 @@
-## Hi, Jeremiah here.
-Software Engineer.
+# Hey, I'm Jeremiah.
 
-Specializes in Api development, and distributed systems. Systems programming protégé
+Software engineer, builder, and curious mind.
 
-## Familiar with:
+I enjoy building products, solving difficult engineering problems, and understanding how things work beneath the abstractions.
 
-- JavaScript / TypeScript
-- Rust
-- Golang
+My interests span distributed systems, backend engineering, cloud infrastructure, and systems programming. I'm particularly drawn to the challenges of making complex systems simpler, more reliable, and efficient.
 
-## In domains of:
-- Frontend Web
-  - React / Next.js
-- Backend Web
-  - Node: Fastify / Nest.js / Express
-  - Go: Fiber
-  - Rust: Actix Web
-- Mobile
-  - Cross Platform: React Native
-- Database
-  - SQL: Mysql / Postgres
-  - NoSQL:  MongoDB 
-  - ORM: Prisma / Sequelize
+### Currently building
 
-### Github Stats
-[![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=lord-jerry&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+**[Beep](https://usebeep.sh)** — A cloud platform focused on making it simpler for developers to build, deploy, and run software.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-jerry&layout=compact&theme=default&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+### Engineering interests
+
+Distributed systems · Cloud infrastructure · Databases · Compiliers · Networking · Virtualization · Systems programming
+
+---
+
+*Good engineering isn't about adding complexity. It's about knowing what you can leave out.*
