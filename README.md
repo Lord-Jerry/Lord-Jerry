@@ -8,7 +8,7 @@ My interests span distributed systems, backend engineering, cloud infrastructure
 
 ### Currently building
 
-**[Beep](https://usebeep.sh)** — A cloud platform focused on making it simpler for developers to build, deploy, and run software.
+**[Beep](https://usebeep.dev)** — A cloud platform focused on making it simpler for developers to build, deploy, and run software.
 
 ### Engineering interests
 
